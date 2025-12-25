@@ -1,4 +1,4 @@
-public class Table_of_Nine {
+public class Table_Of_Nine {
 
     static void main(String[] args) {
 
