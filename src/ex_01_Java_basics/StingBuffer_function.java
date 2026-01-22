@@ -12,8 +12,9 @@ public class StingBuffer_function {
         System.out.println("Enter a string: ");
         StringBuffer sb = new StringBuffer(sc.nextLine());
         System.out.println("You entered: " + sb);
-        System.out.println("Reverse String is: " +sb.reverse());
-        System.out.println(sb.append("Kulkarni"));
+
+        System.out.println("Reverse String is: " +sb.reverse()); // reverse the stringbuffer
+        System.out.println(sb.append("Kulkarni")); //append at the last
         System.out.println(sb.charAt(2));
         System.out.println(sb.length());
         System.out.println(sb.substring(1,3)); //convert the string buffer to string
