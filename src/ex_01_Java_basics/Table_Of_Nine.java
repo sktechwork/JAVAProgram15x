@@ -1,3 +1,5 @@
+package ex_01_Java_basics;
+
 public class Table_Of_Nine {
 
     static void main(String[] args) {

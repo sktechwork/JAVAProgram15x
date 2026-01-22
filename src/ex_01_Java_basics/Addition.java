@@ -1,3 +1,5 @@
+package ex_01_Java_basics;
+
 public class Addition {
 
     static void main(String[] args) {
@@ -7,6 +9,6 @@ public class Addition {
 
         int c = a+b;
 
-        System.out.println("Addition of two numbers : " + c);
+        System.out.println("ex_01_Java_basics.Addition of two numbers : " + c);
     }
 }

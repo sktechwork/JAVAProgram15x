@@ -1,3 +1,5 @@
+package ex_01_Java_basics;
+
 import java.util.Arrays;
 
 public class Array_program {

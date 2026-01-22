@@ -1,3 +1,5 @@
+package ex_01_Java_basics;
+
 public class Max_Number {
 
     static void main() {

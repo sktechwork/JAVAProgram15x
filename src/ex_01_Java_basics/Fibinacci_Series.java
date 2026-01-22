@@ -1,3 +1,5 @@
+package ex_01_Java_basics;
+
 public class Fibinacci_Series {
 
     static void main(String[] args) {

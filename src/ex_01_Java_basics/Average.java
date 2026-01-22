@@ -1,3 +1,5 @@
+package ex_01_Java_basics;
+
 import java.util.Scanner;
 
 public class Average {
@@ -11,10 +13,10 @@ public class Average {
         int b = sc.nextInt();
 
         int c = a+b;
-        System.out.println("Addition of two numbers : " + c);
+        System.out.println("ex_01_Java_basics.Addition of two numbers : " + c);
 
         int avg = c/2;
-        System.out.println("Average of two numbers : " + avg);
+        System.out.println("ex_01_Java_basics.Average of two numbers : " + avg);
 
     }
 }

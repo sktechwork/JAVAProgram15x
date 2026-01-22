@@ -1,3 +1,5 @@
+package ex_01_Java_basics;
+
 public class Arthmatic_Opertaion {
 
 
@@ -13,7 +15,7 @@ public class Arthmatic_Opertaion {
             int mul = x*y*z;
             int div = x/y/z;
 
-            System.out.println("Addition of 3 numbers :" +add);
+            System.out.println("ex_01_Java_basics.Addition of 3 numbers :" +add);
             System.out.println("Substraction of 3 numbers :" +sub);
             System.out.println("Multiplication of 3 numbers :" +mul);
             System.out.println("Division of 3 numbers :" +div);

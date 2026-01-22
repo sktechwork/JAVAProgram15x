@@ -1,3 +1,5 @@
+package ex_01_Java_basics;
+
 import java.util.Scanner;
 
 public class Min_Number {
