@@ -13,6 +13,5 @@ public class Array_program {
         System.out.println(Arrays.toString(a1));
         System.out.println(Arrays.toString(a2));
 
-
     }
 }
