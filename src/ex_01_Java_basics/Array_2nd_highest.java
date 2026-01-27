@@ -18,5 +18,6 @@ public class Array_2nd_highest {
                 sec_max = a[i];
             }
         }
+        System.out.println("Second Highest Using Function :" + sec_max);
     }
 }
